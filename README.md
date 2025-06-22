@@ -16,7 +16,7 @@ This is a small demo application built with **React**, using **Context API** and
 
 ## 📦 Tech Stack
 
-- React (with Vite or Create React App)
+- React (with Vite)
 - Context API + useReducer
 - Local JSON file as data source
 
@@ -26,11 +26,11 @@ This is a small demo application built with **React**, using **Context API** and
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/react-cart-demo.git
-cd react-cart-demo
+git clone https://github.com/ivantisera/elegant-context
+cd elegant-context
 
 # Install dependencies
-npm install
+npm i
 
 # Run the dev server
 npm run dev
